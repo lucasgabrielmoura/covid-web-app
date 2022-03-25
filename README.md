@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# CovidBrasil 😷
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![covid-app-photo](https://user-images.githubusercontent.com/84140511/160106686-9d12f092-45bc-4edd-9e52-faf5f2d4fe4f.png)
 
-## Available Scripts
 
-In the project directory, you can run:
+<a href="https://covid-app-lucasgabrielmoura.vercel.app/">Link para o site</a>
 
-### `npm start`
+<h2>
+    😷 Sobre o projeto
+</h2>
+O CovidBrasil foi feito como uma forma dinâmica para visualização de dados sobre a Pandêmia. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 😷 Ideia do Projeto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+- Criar um website simples, fácil e prático chamado CovidBrasil.
+- Focar em como o cliente pode visualizar o dado e selecionar apenas os estados específicos.
 
-### `npm test`
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠 Tecnologias
 
-### `npm run build`
+<p align="left">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      alt="react"
+      width="120"
+      height="120"
+    />
+    <img
+      src="./src/img/logorouter.svg"
+      alt="router"
+      width="120"
+      height="120"
+    />
+    <img
+      src="https://avatars.githubusercontent.com/u/32372333?s=280&v=4"
+      alt="axios"
+      width="120"
+      height="120"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+      alt="figma"
+      width="120"
+      height="120"
+    />
+  <img
+      src="https://styled-components.com/logo.png"
+      alt="styked-components"
+      width="120"
+      height="120"
+    />
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :mortar_board: Autores
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+    <img
+      src="https://avatars.githubusercontent.com/u/84140511?v=4"
+      alt="FOTO DO AUTOR"
+      width="120"
+      height="120"
+    />
+</p>
+<h4 align="center">
+   Feito por <a href="https://www.linkedin.com/in/lucas-gabriel-baa800212/" target="_blank"> Lucas Gabriel </a>
+</h4>
